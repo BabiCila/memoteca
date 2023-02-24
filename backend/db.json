@@ -1,22 +1,28 @@
 {
-    "pensamentos": [
-        {
-            "id": 1,
-            "conteudo": "Que bom que você veio",
-            "autoria": "Nay",
-            "modelo": "modelo1"
-        },
-        {
-            "id": 1,
-            "conteudo": "Bora estudar",
-            "autoria": "Babi",
-            "modelo": "modelo2"
-        },
-        {
-            "id": 1,
-            "conteudo": "Corre!",
-            "autoria": "BabiCila",
-            "modelo": "modelo3"
-        }
-    ]
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Bora estudar",
+      "autoria": "Babi",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Acooooooorda menina",
+      "autoria": "Barbara Meira",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "É Carnaval!",
+      "autoria": "Babi Cila",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar. testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar.testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar.testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar.testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar.",
+      "autoria": "",
+      "modelo": "modelo3",
+      "id": 7
+    }
+  ]
 }
