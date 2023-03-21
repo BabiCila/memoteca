@@ -1,28 +1,28 @@
 {
   "pensamentos": [
     {
-      "id": 2,
-      "conteudo": "Bora estudar",
-      "autoria": "Babi",
+      "id": 9,
+      "conteudo": "\"Não tenho tempo para mais nada, ser feliz me consome muito\"",
+      "autoria": "adelia prado",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 10,
+      "conteudo": "Renda-se, como eu me rendi. Mergulhe no que você não conhece como eu mergulhei. Não se preocupe em entender, viver ultrapassa qualquer entendimento.",
+      "autoria": "clarice lispector",
       "modelo": "modelo3"
     },
     {
-      "conteudo": "Acooooooorda menina",
-      "autoria": "Barbara Meira",
-      "modelo": "modelo1",
-      "id": 4
+      "id": 11,
+      "conteudo": "Poema à boca fechada  Não direi: Que o silêncio me sufoca e amordaça. Calado estou, calado ficarei, Pois que a língua que falo é de outra raça.  Palavras consumidas se acumulam, Se represam, cisterna de águas mortas, Ácidas mágoas em limos transformadas, Vaza de fundo em que há raízes tortas.  Não direi: Que nem sequer o esforço de as dizer merecem, Palavras que não digam quanto sei Neste retiro em que me não conhecem.  Nem só lodos se arrastam, nem só lamas, Nem só animais bóiam, mortos, medos, Túrgidos frutos em cachos se entrelaçam No negro poço de onde sobem dedos.  Só direi, Crispadamente recolhido e mudo, Que quem se cala quando me calei Não poderá morrer sem dizer tudo.",
+      "autoria": "josé saramago",
+      "modelo": "modelo2"
     },
     {
-      "conteudo": "É Carnaval!",
-      "autoria": "Babi Cila",
-      "modelo": "modelo2",
-      "id": 5
-    },
-    {
-      "conteudo": "testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar. testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar.testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar.testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar.testando um texto bem enorme para perceber se o css altera de acordo com o tamanho do card. Vou copiar e colar.",
-      "autoria": "",
-      "modelo": "modelo3",
-      "id": 7
+      "id": 12,
+      "conteudo": "Preste bastante atenção",
+      "autoria": "barbara priscila",
+      "modelo": "modelo1"
     }
   ]
 }
