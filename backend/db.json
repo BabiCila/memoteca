@@ -4,25 +4,57 @@
       "id": 9,
       "conteudo": "\"Não tenho tempo para mais nada, ser feliz me consome muito\"",
       "autoria": "adelia prado",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 10,
       "conteudo": "Renda-se, como eu me rendi. Mergulhe no que você não conhece como eu mergulhei. Não se preocupe em entender, viver ultrapassa qualquer entendimento.",
       "autoria": "clarice lispector",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 11,
       "conteudo": "Poema à boca fechada  Não direi: Que o silêncio me sufoca e amordaça. Calado estou, calado ficarei, Pois que a língua que falo é de outra raça.  Palavras consumidas se acumulam, Se represam, cisterna de águas mortas, Ácidas mágoas em limos transformadas, Vaza de fundo em que há raízes tortas.  Não direi: Que nem sequer o esforço de as dizer merecem, Palavras que não digam quanto sei Neste retiro em que me não conhecem.  Nem só lodos se arrastam, nem só lamas, Nem só animais bóiam, mortos, medos, Túrgidos frutos em cachos se entrelaçam No negro poço de onde sobem dedos.  Só direi, Crispadamente recolhido e mudo, Que quem se cala quando me calei Não poderá morrer sem dizer tudo.",
       "autoria": "josé saramago",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 12,
-      "conteudo": "Preste bastante atenção",
-      "autoria": "barbara priscila",
-      "modelo": "modelo1"
+      "conteudo": "Estudar é maravilhoso!",
+      "autoria": "barbara meira",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "“Você deve desaprender o que aprendeu”",
+      "autoria": "mestre yoda",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 13
+    },
+    {
+      "conteudo": "Passe adiante o que aprendeu",
+      "autoria": "mestre yoda",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 14
+    },
+    {
+      "conteudo": "\"Fazer ou não fazer. Tentativa não há\"",
+      "autoria": "mestre yoda",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 16
+    },
+    {
+      "id": 17,
+      "conteudo": "Acabar. Não vês que acabas todo o dia. Que morres no amor. Na tristeza. Na dúvida. No desejo. Que te renovas todo dia. No amor. Na tristeza Na dúvida. No desejo. Que és sempre outro. Que és sempre o mesmo. Que morrerás por idades imensas. Até não teres medo de morrer. E então serás eterno.",
+      "autoria": "cecilia meireles",
+      "modelo": "modelo2",
+      "favorito": false
     }
   ]
 }
